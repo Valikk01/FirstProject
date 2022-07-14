@@ -6,6 +6,7 @@
 /.idea/modules.xml
 /.idea/workspace.xml
 .DS_Store
+somefile1
 /build
 /captures
 .externalNativeBuild
@@ -15,3 +16,8 @@
 
 somefile1
 somefile2
+somefile1
+somefile1
+somefile1
+somefile1
+somefile1
